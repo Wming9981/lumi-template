@@ -27,7 +27,7 @@ Luma is designed to offer a clean, elegant, and responsive platform for business
 ---
 
 ## Team
-- **Developer**: Khelvin victory
+- **Developer**: Khelvin victori
 - **Designer**: Bryan vincent
 - **Content Writer**: Handy, Rizko Dylen Valentino
 ---
